@@ -3,7 +3,7 @@
 ####Q. What is Veridigris?  
 A. Veridigris is a project of mine to have a lightweight, practical, consistent, graphical 
 workstation with a classical feel.  
-Applications used for this setup are the following:  
+Applications used for this setup are the following\:  
 *   conkeror  
 *   emacs  
 *   pypanel(panel)  
