@@ -6,6 +6,6 @@ workstation with a classical feel.
 ####Q. What does Veridigris mean?  
 A. The name itself is a color which is part of the project color scheme.  
 ####Screenshots
-![Preview](https://github.com/orlandordiaz/veridigris/raw/master/preview.png)  
+![Preview](https://github.com/orlandordiaz/veridigris/raw/master/preview-thumb.png)  
 ####Panel    
 ![Panel](https://github.com/orlandordiaz/veridigris/raw/master/panel.png)
