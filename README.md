@@ -1,5 +1,5 @@
 ###Veridigris Project  
-![Colours](https://github.com/orlandordiaz/veridigris/blob/master/palette.png)  
+![Colours](https://github.com/orlandordiaz/veridigris/raw/master/palette.png)  
 ####Q. What is Veridigris?  
 A. Veridigris is a project of mine to have a lightweight, practical, usable, graphical 
 workstation with a classical feel.    
