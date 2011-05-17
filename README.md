@@ -7,6 +7,6 @@ A. The name itself is a color which is part of the project color scheme.
 Screenshots
 
 Panel
-[image here]
+![Panel](https://github.com/orlandordiaz/veridigris/raw/master/panel.png)
  
 --to be continued
