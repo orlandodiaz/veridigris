@@ -4,13 +4,11 @@
 A. Veridigris is a project of mine to have a lightweight, practical, consistent, graphical 
 workstation with a classical feel.  
 Applications used for this setup are the following:  
-*   Red
-*   Green
-*   Blue
-+ conkeror  
-+ emacs  
-+ pypanel(panel)  
-+ openbox(window manager)     
+* Fixed `Object3D.lookAt`. ([mrdoob](http://github.com/mrdoob))
+*   conkeror  
+*   emacs  
+*   pypanel(panel)  
+*   openbox(window manager)     
 ####Q. What does Veridigris mean?  
 A. The name itself is a color which is part of the project color scheme.  
 ####Screenshots
