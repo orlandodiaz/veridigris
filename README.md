@@ -4,7 +4,6 @@
 A. Veridigris is a project of mine to have a lightweight, practical, consistent, graphical 
 workstation with a classical feel.  
 Applications used for this setup are the following:  
-* Fixed `Object3D.lookAt`. ([mrdoob](http://github.com/mrdoob))
 *   conkeror  
 *   emacs  
 *   pypanel(panel)  
